@@ -1,0 +1,31 @@
+#btn {
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 30%;
+  font-size: 30px;
+  margin-left: 550px;
+  background-color: rgb(217, 187, 150);
+}
+
+#cybtn {
+  justify-content: center;
+  background-color: red;
+  font-style: bold;
+}
+
+#para {
+  font-style: bold;
+  text-align: center;
+  font-size: 40px;
+}
+
+.container {
+  margin: 180px;
+  text-align: center;
+  max-width: 90vw;
+}
+
+body {
+  background-color: #fff8dc;
+}
